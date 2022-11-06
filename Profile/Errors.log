@@ -1,0 +1,1633 @@
+2022-11-01 08:58:00 - Notice: Undefined index: expire in C:\wamp64\www\sklad\Auth.php, line 10
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+            [logout] => Logout
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+            [logout] => Logout
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [CONTENT_LENGTH] => 13
+            [HTTP_CACHE_CONTROL] => max-age=0
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_ORIGIN] => http://localhost
+            [CONTENT_TYPE] => application/x-www-form-urlencoded
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_REFERER] => http://localhost/sklad/Profile/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53832
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => POST
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/index.php
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293080.9804
+            [REQUEST_TIME] => 1667293080
+        )
+
+    [session_user] => 3
+    [now] => 1667293080
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+        )
+
+)
+
+
+2022-11-01 08:59:08 - Notice: Undefined index: expire in C:\wamp64\www\sklad\Auth.php, line 10
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => none
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53835
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/index.php
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293148.3837
+            [REQUEST_TIME] => 1667293148
+        )
+
+    [session_user] => 3
+    [now] => 1667293148
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+        )
+
+)
+
+
+2022-11-01 08:59:30 - Notice: Undefined index: expire in C:\wamp64\www\sklad\Auth.php, line 10
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_REFERER] => http://localhost/sklad/Products/Create.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53836
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293170.3999
+            [REQUEST_TIME] => 1667293170
+        )
+
+    [session_user] => 3
+    [now] => 1667293170
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+        )
+
+)
+
+
+2022-11-01 08:59:35 - Notice: Undefined index: expire in C:\wamp64\www\sklad\Auth.php, line 10
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Products/Create.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53836
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293175.0422
+            [REQUEST_TIME] => 1667293175
+        )
+
+    [session_user] => 3
+    [now] => 1667293175
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+        )
+
+)
+
+
+2022-11-01 09:08:14 - Notice: Undefined index: expire in C:\wamp64\www\sklad\Auth.php, line 3
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Register.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53975
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293694.7721
+            [REQUEST_TIME] => 1667293694
+        )
+
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+            [Expire_Date] => 1667293790
+        )
+
+    [session_user] => 3
+)
+
+
+2022-11-01 09:09:52 - Warning: session_destroy(): Trying to destroy uninitialized session in C:\wamp64\www\sklad\Auth.php, line 11
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Products/Create.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53991
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293792.2956
+            [REQUEST_TIME] => 1667293792
+        )
+
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+            [Expire_Date] => 1667293790
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667293790
+    [now] => 1667293792
+)
+
+
+2022-11-01 09:10:22 - Warning: session_destroy(): Trying to destroy uninitialized session in C:\wamp64\www\sklad\Auth.php, line 11
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Profile/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53992
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293822.337
+            [REQUEST_TIME] => 1667293822
+        )
+
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+            [Expire_Date] => 1667293790
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667293790
+    [now] => 1667293822
+)
+
+
+2022-11-01 09:11:00 - Warning: session_destroy(): Trying to destroy uninitialized session in C:\wamp64\www\sklad\Auth.php, line 11
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53994
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293860.2368
+            [REQUEST_TIME] => 1667293860
+        )
+
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+            [Expire_Date] => 1667293790
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667293790
+    [now] => 1667293860
+)
+
+
+2022-11-01 09:11:24 - Warning: session_destroy(): Trying to destroy uninitialized session in C:\wamp64\www\sklad\Auth.php, line 11
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_CACHE_CONTROL] => max-age=0
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_REFERER] => http://localhost/sklad/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53997
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293884.8654
+            [REQUEST_TIME] => 1667293884
+        )
+
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+            [Expire_Date] => 1667293790
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667293790
+    [now] => 1667293884
+)
+
+
+2022-11-01 09:11:27 - Warning: session_destroy(): Trying to destroy uninitialized session in C:\wamp64\www\sklad\Auth.php, line 11
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Profile/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 53997
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667293887.6207
+            [REQUEST_TIME] => 1667293887
+        )
+
+    [_SESSION] => Array
+        (
+            [username] => testcho
+            [id] => 3
+            [Expire_Date] => 1667293790
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667293790
+    [now] => 1667293887
+)
+
+
+2022-11-01 09:20:31 - Warning: session_destroy(): Trying to destroy uninitialized session in C:\wamp64\www\sklad\Auth.php, line 11
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_CACHE_CONTROL] => max-age=0
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_REFERER] => http://localhost/sklad/Products/Create.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54041
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667294431.5176
+            [REQUEST_TIME] => 1667294431
+        )
+
+    [_SESSION] => Array
+        (
+            [Expire_Date] => 1667294065
+            [username] => testcho
+            [id] => 3
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667294065
+    [now] => 1667294431
+)
+
+
+2022-11-01 09:30:44 - Notice: Undefined index: id in C:\wamp64\www\sklad\Profile\index.php, line 21
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Profile/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54110
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667295044.9402
+            [REQUEST_TIME] => 1667295044
+        )
+
+    [conn] => DbHelper Object
+        (
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667294888
+    [now] => 1667295044
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
+2022-11-01 09:30:54 - Notice: Undefined index: id in C:\wamp64\www\sklad\Auth.php, line 2
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_REFERER] => http://localhost/sklad/Profile/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54111
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667295054.9019
+            [REQUEST_TIME] => 1667295054
+        )
+
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
+2022-11-01 09:46:19 - Notice: Undefined index: id in C:\wamp64\www\sklad\Profile\index.php, line 21
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54176
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667295979.7452
+            [REQUEST_TIME] => 1667295979
+        )
+
+    [conn] => DbHelper Object
+        (
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667295551
+    [now] => 1667295979
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
+2022-11-01 09:46:49 - Notice: Undefined index: id in C:\wamp64\www\sklad\Profile\index.php, line 21
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => none
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54177
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667296009.139
+            [REQUEST_TIME] => 1667296009
+        )
+
+    [conn] => DbHelper Object
+        (
+        )
+
+    [session_user] => 
+    [session_expire] => 
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
+2022-11-01 09:50:45 - Notice: Undefined index: id in C:\wamp64\www\sklad\Profile\index.php, line 21
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/index.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54190
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667296245.6117
+            [REQUEST_TIME] => 1667296245
+        )
+
+    [conn] => DbHelper Object
+        (
+        )
+
+    [session_user] => 3
+    [session_expire] => 1667296132
+    [now] => 1667296245
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
+2022-11-01 10:21:34 - Notice: Undefined index: id in C:\wamp64\www\sklad\Profile\index.php, line 21
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => 1cppdo2e32sj2ghnaeq2bedpjv
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Chromium";v="106", "Google Chrome";v="106", "Not;A=Brand";v="99"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=1cppdo2e32sj2ghnaeq2bedpjv
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 54608
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667298094.1841
+            [REQUEST_TIME] => 1667298094
+        )
+
+    [conn] => DbHelper Object
+        (
+        )
+
+    [session_user] => testcho
+    [session_expire] => 1667298092
+    [session_user_id] => 3
+    [now] => 1667298094
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
+2022-11-04 15:23:05 - Notice: Undefined index: id in C:\wamp64\www\sklad\Profile\index.php, line 21
+
+--->:
+Array
+(
+    [_GET] => Array
+        (
+        )
+
+    [_POST] => Array
+        (
+        )
+
+    [_COOKIE] => Array
+        (
+            [PHPSESSID] => d2h0u1n1iu270rr89drk4s2r16
+        )
+
+    [_FILES] => Array
+        (
+        )
+
+    [_ENV] => Array
+        (
+        )
+
+    [_REQUEST] => Array
+        (
+        )
+
+    [_SERVER] => Array
+        (
+            [HTTP_HOST] => localhost
+            [HTTP_CONNECTION] => keep-alive
+            [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+            [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+            [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+            [HTTP_SEC_FETCH_SITE] => same-origin
+            [HTTP_SEC_FETCH_MODE] => navigate
+            [HTTP_SEC_FETCH_USER] => ?1
+            [HTTP_SEC_FETCH_DEST] => document
+            [HTTP_SEC_CH_UA] => "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+            [HTTP_SEC_CH_UA_MOBILE] => ?0
+            [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+            [HTTP_REFERER] => http://localhost/sklad/Products/index.php
+            [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+            [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9
+            [HTTP_COOKIE] => PHPSESSID=d2h0u1n1iu270rr89drk4s2r16
+            [PATH] => C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\TortoiseSVN\bin;C:\prilojeniq\node\;C:\wamp64\bin\php\php8.1.0;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+            [SystemRoot] => C:\WINDOWS
+            [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+            [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+            [WINDIR] => C:\WINDOWS
+            [SERVER_SIGNATURE] => <address>Apache/2.4.51 (Win64) PHP/7.4.26 Server at localhost Port 80</address>
+
+            [SERVER_SOFTWARE] => Apache/2.4.51 (Win64) PHP/7.4.26
+            [SERVER_NAME] => localhost
+            [SERVER_ADDR] => ::1
+            [SERVER_PORT] => 80
+            [REMOTE_ADDR] => ::1
+            [DOCUMENT_ROOT] => C:/wamp64/www
+            [REQUEST_SCHEME] => http
+            [CONTEXT_PREFIX] => 
+            [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+            [SERVER_ADMIN] => wampserver@wampserver.invalid
+            [SCRIPT_FILENAME] => C:/wamp64/www/sklad/Profile/index.php
+            [REMOTE_PORT] => 64340
+            [GATEWAY_INTERFACE] => CGI/1.1
+            [SERVER_PROTOCOL] => HTTP/1.1
+            [REQUEST_METHOD] => GET
+            [QUERY_STRING] => 
+            [REQUEST_URI] => /sklad/Profile/
+            [SCRIPT_NAME] => /sklad/Profile/index.php
+            [PHP_SELF] => /sklad/Profile/index.php
+            [REQUEST_TIME_FLOAT] => 1667575385.4175
+            [REQUEST_TIME] => 1667575385
+        )
+
+    [conn] => DbHelper Object
+        (
+        )
+
+    [session_user] => testcho
+    [session_expire] => 1667570764
+    [session_user_id] => 3
+    [now] => 1667575385
+    [_SESSION] => Array
+        (
+        )
+
+)
+
+
